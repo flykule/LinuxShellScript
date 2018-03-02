@@ -1,0 +1,22 @@
+总用量 108
+-rw-rw-r-- 1 castle castle    12 3月   2 15:12 -
+drwxrwxr-x 2 castle castle  4096 3月   2 15:20 .
+drwxrwxr-x 8 castle castle  4096 3月   2 14:48 ..
+-rw-rw-r-- 1 castle castle  1276 3月   2 15:20 demo.sh
+-rw-rw-r-- 1 castle castle 14128 3月   2 15:20 .demo.sh.un~
+-rw-rw-r-- 1 castle castle    40 3月   2 15:20 output.txt
+-rw-rw-r-- 1 castle castle    49 3月   2 15:20 out.txt
+-rw-rw-r-- 1 castle castle    40 3月   2 15:20 stderr.txt
+-rw-rw-r-- 1 castle castle     0 3月   2 15:20 stdout.txt
+-rw-rw-r-- 1 castle castle     0 3月   2 15:20 temp.txt
+总用量 112
+-rw-rw-r-- 1 castle castle    12 3月   2 15:12 -
+drwxrwxr-x 2 castle castle  4096 3月   2 15:20 .
+drwxrwxr-x 8 castle castle  4096 3月   2 14:48 ..
+-rw-rw-r-- 1 castle castle  1276 3月   2 15:20 demo.sh
+-rw-rw-r-- 1 castle castle 14128 3月   2 15:20 .demo.sh.un~
+-rw-rw-r-- 1 castle castle    40 3月   2 15:20 output.txt
+-rw-rw-r-- 1 castle castle    49 3月   2 15:20 out.txt
+-rw-rw-r-- 1 castle castle    40 3月   2 15:20 stderr.txt
+-rw-rw-r-- 1 castle castle     0 3月   2 15:20 stdout.txt
+-rw-rw-r-- 1 castle castle   572 3月   2 15:20 temp.txt
