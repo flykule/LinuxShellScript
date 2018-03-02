@@ -5,11 +5,15 @@
 export PATH=/opt/myapp/bin:$PATH
 export LD_LIBRARY_PATH=/opt/myapp/lib;$LD_LIBRARY_PATH
 
-# 定义一个函数在bashrc中
+# 定义一个函数在bashrc中,版本一
 # 该函数首先检查参数二的目录是否存在，如果存在
 # 将第一个参数指定的值设置成第二个参数的值加上:
 # 随后再跟上第一个参数的原始值.
 prepend() { [ -d "$2" ] && eval $1=\"$2':'\$$1\" && export $1; }
+
+# 函数的版本二,修改了变量为空的对应情况
+# 当且金当旧值存在，才会增加
+prepend() { [ -d "$2" ] && eval $1=\"$2\$\{$1:+':'\$$1\}\" && export $1 ; }
 
 # 用法:
 # prepend PATH /opt/myapp/bin
