@@ -1,5 +1,0 @@
-#!/bin/bash
-# 实现用echo进行彩色打印
-
-echo -e "\e[1;31m This is red text \e[0m"
-
