@@ -1,0 +1,4 @@
+this is the original text
+line2
+line4
+GNU is not UNIX
